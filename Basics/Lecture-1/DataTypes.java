@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/data-type-1666706751/1
+
 class Solution {
     static int dataTypeSize(String str) {
         if(str.equals("Character")){
